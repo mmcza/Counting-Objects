@@ -1,6 +1,6 @@
 # Counting Objects With Different Colors
 
-#1. Importing the picture and changing color representation from RGB to HSV.
+<b>1. Importing the picture and changing color representation from RGB to HSV.<\b>
 <p align="center">
   <img src="https://github.com/4MC4/Counting-Objects/blob/main/pics/orig_to_hsv.png" height="600">
 </p>
