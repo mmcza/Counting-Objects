@@ -13,4 +13,4 @@
 <img src="https://github.com/4MC4/Counting-Objects/blob/main/pics/result.png" height="600">
 </p>
 
-Disclaimer: pictures of the objects were provided by univeristy and that's why I haven't uploaded them.
+Disclaimer: pictures of the objects were provided by university and that's why I haven't uploaded them.
