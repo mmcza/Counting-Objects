@@ -1,2 +1,4 @@
-# Counting-Objects
-Project I did during 5th semester for course Introduction to image processing (Wprowadzenie do przetwarzania obrazów). Final MARPE was 0.5625%.
+# Counting Objects With Different Colors
+
+#1. Importing the picture and changing color representation from RGB to HSV.
+![](https://github.com/4MC4/Counting-Objects/blob/main/pics/orig_to_hsv.png)
